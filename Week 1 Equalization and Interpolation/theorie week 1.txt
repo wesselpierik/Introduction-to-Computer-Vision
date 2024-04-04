@@ -1,0 +1,32 @@
+1.1)
+Een perfect constant histogram van een afbeelding ontstaat wanneer alle pixelwaarden even vaak voorkomen in de afbeelding. Aangezien deze kans klein is in een afbeelding zal de histogram in de praktijk niet constant zijn.
+
+1.2)
+Dit is omdat bij de cumulative histogram de verschillende pixelwaarden/bins weinig voorkomen. Als dan vervolgens deze bins opgeteld worden bij elkaar zal er alsnog en relatief lineaire functie ontstaan. De aantallen verschillen namelijk niet veel van elkaar.
+
+2.a)
+^f(x)=F(⌊x+1/2⌋)
+
+2.b)
+F(k) = ak+b
+F(k+1) = a(k+1)+b
+
+2.c)
+Zie foto
+
+
+3)
+uhm??
+
+4.a)
+Dit is omdat een degree-3 polynomial 4 coefficienten bevat. Om deze te kunnen berekenen hebben we dus ook 4 punten nodig om het punt heen.
+
+4.b)
+Zie foto
+
+
+4.c)
+Zie foto
+
+4.d)
+16
