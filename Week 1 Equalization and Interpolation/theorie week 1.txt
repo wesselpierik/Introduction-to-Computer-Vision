@@ -16,7 +16,7 @@ Zie foto
 
 
 3)
-uhm??
+Zie foto
 
 4.a)
 Dit is omdat een degree-3 polynomial 4 coefficienten bevat. Om deze te kunnen berekenen hebben we dus ook 4 punten nodig om het punt heen.
