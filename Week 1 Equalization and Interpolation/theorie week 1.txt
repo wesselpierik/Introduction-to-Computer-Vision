@@ -1,5 +1,5 @@
 1.1)
-Een perfect constant histogram van een afbeelding ontstaat wanneer alle pixelwaarden even vaak voorkomen in de afbeelding. Aangezien deze kans klein is in een afbeelding zal de histogram in de praktijk niet constant zijn.
+Een perfect constant histogram van een afbeelding ontstaat wanneer alle pixelwaarden even vaak voorkomen in de afbeelding. Omdat er geen onderscheid tussen waarden in dezelfde bin te maken is, kan de bin niet verdeeld worden over meerdere bins. En kan niet elke bin even vaak voorkomen in het histogram.
 
 1.2)
 Dit is omdat bij de cumulative histogram de verschillende pixelwaarden/bins weinig voorkomen. Als dan vervolgens deze bins opgeteld worden bij elkaar zal er alsnog en relatief lineaire functie ontstaan. De aantallen verschillen namelijk niet veel van elkaar.
