@@ -63,6 +63,7 @@ dkms.conf
 *.mp4
 *.png
 *.jpg
+*.JPG
 *.jpeg
 *.gif
 *.mp3
